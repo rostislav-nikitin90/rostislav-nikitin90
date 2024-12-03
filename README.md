@@ -1,5 +1,9 @@
 ## Hi there 👋
+### My name is Rostislav and I am currently studying web development as an online student at Brigham Young University-Idaho.
+### Description
+All the projects presented are my student work and include such programming languages ​​as HTML, CSS and JavaScript.
 
+**Contact:** [LinkedIn](https://www.linkedin.com/in/nikitin-rostislav/)
 <!--
 **rostislav-nikitin90/rostislav-nikitin90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
