@@ -18,10 +18,11 @@ I'm Rostislav, an online software development student at Brigham Young Universit
 ## Projects
 
 Two of my favorite student projects involved:
-1. Developing 4-page prototype chamber of commerce website using JavaScript to dynamically load JSON data and API responses:
+1. Developing 4-page prototype chamber of commerce website using JavaScript to dynamically load JSON data and API responses:<br />
    Link to the website: [Budva Chamber of Commerce](https://rostislav-nikitin90.github.io/wdd231/chamber/)
-2. Developing 3-page travel website for Budva, Montenegro with 1 page that dynamically loads local attractions from JSON and displays them with interactive modals:
-   Link to the website: [Visit Budva - Travel Guide](https://rostislav-nikitin90.github.io/wdd231/finalproject/home.html)
+2. Developing 3-page travel website for Budva, Montenegro with 1 page that dynamically loads local attractions from JSON and displays them with interactive modals:<br />
+   Link to the website: [Visit Budva - Travel Guide](https://rostislav-nikitin90.github.io/wdd231/finalproject/home.html)<br />
+
 Link to the repository related to these two projects: [WDD 231](https://github.com/rostislav-nikitin90/wdd231) 
 
 ## Let's Connect!
